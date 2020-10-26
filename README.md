@@ -17,3 +17,7 @@ I'm only solving mathematical models of the problems using my knowledge of evolu
 - [[7]](struct_design_1_pso.ipynb) Structural design solution for a constrained problem: optimal Design of a Pressure Vessel, using PSO. Problem 1 (4.2.1) in the same paper as above.
 - [[8]](struct_design_3_pso.ipynb) Structural design solution for a contrained problem: optimal Tension/Compression String Design, using PSO. Problem 3 (4.2.3) in the same paper as above.
 - [[9]](clustered_design_1_pso.ipynb) Structural design solution for a constrained problem: optimal Design of a Pressure Vessel, using PSO and Clustered population. Problem 1 (4.2.1) in the same paper as above.
+- [[10]](structural_design_1_ga.ipynb) Structural design solution for a constrained problem: optimal Design of a Pressure Vessel, using GA. Problem 1 (4.2.1) in the same paper as above.
+- [[11]](structural_design_3_ga.ipynb) Structural design solution for a contrained problem: optimal Tension/Compression String Design, using GA. Problem 3 (4.2.3) in the same paper as above.
+- [[12]](clustered_design_1_ga.ipynb) Structural design solution for a constrained problem: optimal Design of a Pressure Vessel, using GA and Clustered population. Problem 1 (4.2.1) in the same paper as above.
+- [[13]](clustered_design_3_ga.ipynb) Structural design solution for a contrained problem: optimal Tension/Compression String Design using GA and Clustered population. Problem 3 (4.2.3) in the same paper as above.

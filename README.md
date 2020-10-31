@@ -1,11 +1,17 @@
-# optimization-algos
+# Nature-Inspired Optimization
 Applications of Nature-inspired optimization algos in real life Engineering settings
 
 ### Disclaimer:
 Since I'm a computer science major, I'm not an expert in the fields of engineering to which these problems are related.  
 I'm only solving mathematical models of the problems using my knowledge of evolutionary algos, and have obtained these models from research papers in those fields. If there are any mistakes in the terminology I have used, or any issue with the maths behind the paper or translation of the math into my code, please let me know and I will be happy to correct them. Thanks!
 
-> **Note**: Not able to view the `ipynb`s? Please follow [these instructions](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11#issue-184473171). 
+> **Note**: Not able to view the `ipynb`s? Please follow [these instructions](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11#issue-184473171):  
+>
+> Open the `ipynb` using `nbviewer`:
+> * Go to [nbviewer.jupyter.org](https://nbviewer.jupyter.org/)
+> * Paste the github link to the notebook.
+> 
+> Or, say the github link to the notebook is `https://github.com/userxyz/xyz`, then go to the URL: `https://nbviewer.jupyter.org/github/userxyz/xyz`. If the notebook is not rendered like it should, add the parameter `?flush_cashe=true` to the end of the URL.
 
 ### Current Progress:
 - [[1]](PSO-Concrete.ipynb) Single Objective PSO for Civil Engineering based on [this paper](http://www.ijimt.org/vol10/832-CM0015.pdf)

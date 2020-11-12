@@ -11,7 +11,7 @@ I'm only solving mathematical models of the problems using my knowledge of evolu
 > * Go to [nbviewer.jupyter.org](https://nbviewer.jupyter.org/)
 > * Paste the github link to the notebook.
 > 
-> Or, say the github link to the notebook is `https://github.com/userxyz/xyz`, then go to the URL: `https://nbviewer.jupyter.org/github/userxyz/xyz`. If the notebook is not rendered like it should, add the parameter `?flush_cashe=true` to the end of the URL.
+> Or, say the github link to the notebook is `https://github.com/userxyz/xyz`, then go to the URL: `https://nbviewer.jupyter.org/github/userxyz/xyz`. If the notebook is not rendered like it should, add the parameter `?flush_cache=true` to the end of the URL.
 
 ## Single Objective Optimization: PSO and GA (Clustered and Randomized)
 Testing Clustered and Randomized populations in PSO and GA on benchmark test functions.
@@ -71,7 +71,7 @@ Competitive | 20% | 0% | 20% | 20% |
 
 
 
-### Applications:
+### Applications in Engineering:
 - [[1]](PSO-Concrete.ipynb) Single Objective PSO for Civil Engineering based on [this paper](http://www.ijimt.org/vol10/832-CM0015.pdf)
 - [[2]](GA_Concrete.ipynb) Single Objective GA for Civil Engineering, based on the same paper as above.
 - [[3]](structural_design_1_nsga2.ipynb) Structural design solution for a constrained problem: optimal Design of a Pressure Vessel, using NSGA II. Problem 1 (4.2.1) in [this paper](https://www.aimsciences.org/article/exportPdf?id=0b2c367b-f5d5-4214-9b55-fbde31e3b7ad)
